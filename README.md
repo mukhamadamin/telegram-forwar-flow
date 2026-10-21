@@ -30,7 +30,7 @@ then the same at 0.25×, then again at 1×).
 | `Integration/ChatControllerForwardFlow.swift` | Message snapshot from `ChatControllerImpl` (TelegramUI). |
 | `Demo/` | Standalone UIKit demo — builds and runs in the simulator without an Xcode project. |
 | `Prototype/forward-flow.html` | Web prototype (WebGL2) with the same math: tuning sliders, 0.25× slow motion, scrubbing. |
-| `Media/demo.mp4` | Recording of the web prototype (414×868, 25 fps). |
+| `Media/demo.mp4` | The web prototype rendered frame by frame (1080×1920, 30 fps). |
 
 ## How it works
 
